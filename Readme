@@ -1,1 +1,2 @@
 this is alx test project fro travel app for learning the backend concept like seeding , serializing ,and also rest framework
+with some orm models also with integration of views to view the provided api 
